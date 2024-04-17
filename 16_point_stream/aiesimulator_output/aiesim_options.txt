@@ -1,0 +1,2 @@
+AIE_PKG_DIR=/home/secure/tools/ParallelNTT/a16_point_stream/test_sixteen_pnt/Emulation-AIE/./Work
+AIE_PROFILE=All
